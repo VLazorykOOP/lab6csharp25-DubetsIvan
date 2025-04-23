@@ -1,0 +1,15 @@
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\bin\Debug\net7.0\Program 3.exe
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\bin\Debug\net7.0\Program 3.deps.json
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\bin\Debug\net7.0\Program 3.runtimeconfig.json
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\bin\Debug\net7.0\Program 3.dll
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\bin\Debug\net7.0\Program 3.pdb
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\obj\Debug\net7.0\Program 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\obj\Debug\net7.0\Program 3.AssemblyInfoInputs.cache
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\obj\Debug\net7.0\Program 3.AssemblyInfo.cs
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\obj\Debug\net7.0\Program 3.csproj.CoreCompileInputs.cache
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\obj\Debug\net7.0\Program 3.sourcelink.json
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\obj\Debug\net7.0\Program 3.dll
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\obj\Debug\net7.0\refint\Program 3.dll
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\obj\Debug\net7.0\Program 3.pdb
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\obj\Debug\net7.0\Program 3.genruntimeconfig.cache
+D:\Універ\2 курс\2 семестр\Крос-платформне програмуваня\Лаби\Lab_6\Lab6CSharp\Program 3\Program 3\obj\Debug\net7.0\ref\Program 3.dll
